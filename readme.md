@@ -1,4 +1,8 @@
 should use c++ 20
+
+how call my libarary ?
+import _3BDU;
+
 /*
 	Developer: _UUUUUUUUUUUUUUUUUUUUUUUUU
 	Features:-
