@@ -1,3 +1,5 @@
+OPEN_SOURCE
+
 should use c++ 20
 
 how call my libarary ?
